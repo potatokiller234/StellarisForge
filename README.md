@@ -17,6 +17,8 @@ An editor used to make custom static solar systems with automatic mod support. L
 # Table of Contents
 ### Project set up
 [Go to How to setup the editor for your first project](#how-to-setup-the-editor-for-your-first-project)
+[Go to How to use the editor for your first project](#how-to-use-the-editor-for-your-first-project)
+
 ### FAQ
 [Go to Frequently Asked Questions](#frequently-asked-questions)
 
