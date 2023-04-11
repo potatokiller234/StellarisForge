@@ -18,7 +18,7 @@ An editor used to make custom static solar systems with automatic mod support. L
 ### Project set up
 
 ### FAQ
-[Go to FAQ](#FAQ)
+[Go to Frequently Asked Questions](#frequently-asked-questions)
 
 
 
@@ -42,7 +42,7 @@ An editor used to make custom static solar systems with automatic mod support. L
 ### Press done and press the Re-parse button
 	Now you are ready to start making custom galaxies
 	
-#faq
+
 # Frequently Asked Questions
 
 
