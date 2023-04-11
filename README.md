@@ -17,7 +17,9 @@ An editor used to make custom static solar systems with automatic mod support. L
 # Table of Contents
 ### Project set up
 [Go to How to setup the editor for your first project](#how-to-setup-the-editor-for-your-first-project)  
-[Go to How to use the editor for your first project](#how-to-use-the-editor-for-your-first-project)  
+[Go to How to use the editor for your first project](#how-to-use-the-editor-for-your-first-project)
+[Go to How to use the grid](#how-to-use-the-grid)  
+
 
 ### FAQ
 [Go to Frequently Asked Questions](#frequently-asked-questions)
@@ -55,6 +57,12 @@ Note - Random Initializers are random each time the map is played in stellaris. 
 ![Random](https://user-images.githubusercontent.com/57806930/231272395-25e4a418-3f20-476c-9d71-6b34057eb25b.PNG)  
 4. Connect your solar system initializers using hyperlanes  
 ![Hyperlane](https://user-images.githubusercontent.com/57806930/231272611-ef9b87eb-c3d3-4264-8a04-bfce5f693ebe.PNG)  
+# How to use the grid
+- Left click to place a solar system initializer once selected  
+![Example](https://user-images.githubusercontent.com/57806930/231274556-2191bfbe-47b6-4f7b-a238-bd2e3e7a1045.PNG)  
+- Right click on a placed solar system initializer to delete it  
+- Right click a UI button solar system initializer to change the color of the ones place in the grid   
+![ColorChange](https://user-images.githubusercontent.com/57806930/231274878-58a2eab8-5989-4f3e-b263-6c46cf285de6.PNG)  
 
 
 	
