@@ -18,7 +18,7 @@ An editor used to make custom static solar systems with automatic mod support. L
 ### Project set up
 
 ### FAQ
-[Go to FAQ](#faq)
+[Go to FAQ](#FAQ)
 
 
 
