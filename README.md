@@ -32,15 +32,15 @@ An editor used to make custom static solar systems with automatic mod support. L
 ### Second get the Documents Stellaris Path
 ![rsz_second](https://user-images.githubusercontent.com/57806930/231257920-44d05de2-d9bc-4b4f-9967-678ed620d469.png)
 ### Press the new project button and set up a new project
-	A project is a collection of galaxys
+A project is a collection of galaxys
 ![image](https://user-images.githubusercontent.com/57806930/231258687-7cb0d45d-3a00-445f-b349-019f95812bab.png)
 ### Give the names and stellaris mod version
-	Editor Name - The name of the galaxy in the editor
-	Stellaris Name - The name of the galaxy in stellaris
-	Stellaris Version - What version of stellaris this mod should be played in
+Editor Name - The name of the galaxy in the editor
+Stellaris Name - The name of the galaxy in stellaris
+Stellaris Version - What version of stellaris this mod should be played in
 ![image](https://user-images.githubusercontent.com/57806930/231259059-e0557e8d-b392-4510-9052-0c5d81b6a910.png)
 ### Press done and press the Re-parse button
-	Now you are ready to start making custom galaxies
+Now you are ready to start making custom galaxies
 # How to use the editor for your first project
 ### First get the Steam Stellaris Path
 1. If there is nothing in the green/solar system initializer box press RE-PARSE  
