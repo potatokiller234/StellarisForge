@@ -17,10 +17,9 @@ An editor used to make custom static solar systems with automatic mod support. L
 # Table of Contents
 ### Project set up
 Amogus
-[How to setup the editor for your first project(#SetUp)
-
+[How to setup the editor for your first project(#setup)
 ### FAQ
-[Frequently Asked Questionst(#FAQ)
+[Frequently Asked Questionst(#faq)
 
 
 
