@@ -45,11 +45,11 @@ An editor used to make custom static solar systems with automatic mod support. L
 ### First get the Steam Stellaris Path
 1. If there is nothing in the green/solar system initializer box press RE-PARSE
 ![Green](https://user-images.githubusercontent.com/57806930/231271317-e85843f5-da15-4ac1-b443-11fd051897b4.PNG)
-   Note - You should only ever press RE-PARSE once if pressed more then one times it can fill the editor with junk
+Note - You should only ever press RE-PARSE once if pressed more then one times it can fill the editor with junk
 2. Then place empire initializers on the grid to create spawn points for empires
 ![Empire](https://user-images.githubusercontent.com/57806930/231271687-bb7034cc-15c1-4ed0-8a36-6a1a17781847.PNG)
 3. Create a galaxy made of parsed solar system initializers and random_initializers
-   Note - Random Initializers are random each time the map is played in stellaris. For example one game it could be a normal system, then next it could be an ether drake
+Note - Random Initializers are random each time the map is played in stellaris. For example one game it could be a normal system, then next it could be an ether drake
 ![Random](https://user-images.githubusercontent.com/57806930/231272395-25e4a418-3f20-476c-9d71-6b34057eb25b.PNG)
 4. Connect your solar system initializers using hyperlanes
 ![Hyperlane](https://user-images.githubusercontent.com/57806930/231272611-ef9b87eb-c3d3-4264-8a04-bfce5f693ebe.PNG)
