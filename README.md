@@ -14,4 +14,5 @@ An editor used to make custom static solar systems with automatic mod support. L
 - Easy export to Steam or Output folder
 - More things in future releases 
 
-
+First get the Steam Stellaris Path
+![rsz_first](https://user-images.githubusercontent.com/57806930/231257206-6745792b-ddad-48a3-a98f-56e1997802d0.png)
