@@ -44,8 +44,8 @@ An editor used to make custom static solar systems with automatic mod support. L
 	
 
 # Frequently Asked Questions
-Can the editor parse other stellaris static maps outside of the Stellaris Forge Editor? - No, but it will be added in the future
-Can the editor make custom solar system initializers? - No, but the editor supports already created custom solar system initializers
+- Can the editor parse other stellaris static maps outside of the Stellaris Forge Editor? - No, but it will be added in the future
+- Can the editor make custom solar system initializers? - No, but the editor supports already created custom solar system initializers
 
 
 
