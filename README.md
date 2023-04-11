@@ -14,6 +14,13 @@ An editor used to make custom static solar systems with automatic mod support. L
 - Easy export to Steam or Output folder
 - More things in future releases 
 
+### Table of Contents
+### How to setup the editor for your first project
+[Go to Real Cool Heading section](#SetUp)
+
+
+
+#SetUp
 # How to setup the editor for your first project
 ### First get the Steam Stellaris Path
 ![rsz_first](https://user-images.githubusercontent.com/57806930/231257206-6745792b-ddad-48a3-a98f-56e1997802d0.png)
@@ -29,6 +36,8 @@ An editor used to make custom static solar systems with automatic mod support. L
 ![image](https://user-images.githubusercontent.com/57806930/231259059-e0557e8d-b392-4510-9052-0c5d81b6a910.png)
 ### Press done and press the Re-parse button
 	Now you are ready to start making custom galaxies
+	
+# Frequently Asked Questions
 
 
 
