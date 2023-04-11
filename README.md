@@ -14,9 +14,11 @@ An editor used to make custom static solar systems with automatic mod support. L
 - Easy export to Steam or Output folder
 - More things in future releases 
 
-### Table of Contents
-### How to setup the editor for your first project
-[Go to Real Cool Heading section](#SetUp)
+# Table of Contents
+### Project set up
+[How to setup the editor for your first project(#SetUp)
+### FAQ
+[Frequently Asked Questionst(#FAQ)
 
 
 
@@ -36,7 +38,7 @@ An editor used to make custom static solar systems with automatic mod support. L
 ![image](https://user-images.githubusercontent.com/57806930/231259059-e0557e8d-b392-4510-9052-0c5d81b6a910.png)
 ### Press done and press the Re-parse button
 	Now you are ready to start making custom galaxies
-	
+#FAQ
 # Frequently Asked Questions
 
 
