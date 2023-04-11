@@ -60,6 +60,7 @@ Note - Random Initializers are random each time the map is played in stellaris. 
 # How to use the grid
 - Left click to place a solar system initializer once selected  
 ![Example](https://user-images.githubusercontent.com/57806930/231274556-2191bfbe-47b6-4f7b-a238-bd2e3e7a1045.PNG)  
+![Placed Example](https://user-images.githubusercontent.com/57806930/231275038-47b3a111-74f1-40dc-bf47-948d24871bb8.PNG)  
 - Right click on a placed solar system initializer to delete it  
 - Right click a UI button solar system initializer to change the color of the ones place in the grid   
 ![ColorChange](https://user-images.githubusercontent.com/57806930/231274878-58a2eab8-5989-4f3e-b263-6c46cf285de6.PNG)  
