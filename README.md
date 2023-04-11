@@ -77,7 +77,7 @@ The location of the "mod" is in your Stellaris document folder path, in its mod 
 # How to output a galaxy to the output folder
 1. Press the "Generate" button at the top left of your screen
 2. Press the "Compile and Output to Unity Directory"  
-Note - The output file is located in your persitant datapath location (Example -C:\Users\Test\AppData\LocalLow\DefaultCompany\StellarisFinalGen)
+Note - The output file is located in your persitant datapath location (Example- C:\Users\Test\AppData\LocalLow\DefaultCompany\StellarisFinalGen)
 	
 
 # Frequently Asked Questions
