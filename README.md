@@ -41,11 +41,26 @@ An editor used to make custom static solar systems with automatic mod support. L
 ![image](https://user-images.githubusercontent.com/57806930/231259059-e0557e8d-b392-4510-9052-0c5d81b6a910.png)
 ### Press done and press the Re-parse button
 	Now you are ready to start making custom galaxies
+# How to use the editor for your first project
+### First get the Steam Stellaris Path
+1. If there is nothing in the green/solar system initializer box press RE-PARSE
+![Green](https://user-images.githubusercontent.com/57806930/231271317-e85843f5-da15-4ac1-b443-11fd051897b4.PNG)
+   Note - You should only ever press RE-PARSE once if pressed more then one times it can fill the editor with junk
+2. Then place empire initializers on the grid to create spawn points for empires
+![Empire](https://user-images.githubusercontent.com/57806930/231271687-bb7034cc-15c1-4ed0-8a36-6a1a17781847.PNG)
+3. Create a galaxy made of parsed solar system initializers and random_initializers
+   Note - Random Initializers are random each time the map is played in stellaris. For example one game it could be a normal system, then next it could be an ether drake
+![Random](https://user-images.githubusercontent.com/57806930/231272395-25e4a418-3f20-476c-9d71-6b34057eb25b.PNG)
+4. Connect your solar system initializers using hyperlanes
+![Hyperlane](https://user-images.githubusercontent.com/57806930/231272611-ef9b87eb-c3d3-4264-8a04-bfce5f693ebe.PNG)
+
+
 	
 
 # Frequently Asked Questions
 - Can the editor parse other stellaris static maps outside of the Stellaris Forge Editor? - No, but it will be added in the future
 - Can the editor make custom solar system initializers? - No, but the editor supports already created custom solar system initializers
+- Button such as Nebula do not work, why? - At the moment these are filler buttons for future releases.
 
 
 
