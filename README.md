@@ -17,8 +17,12 @@ An editor used to make custom static solar systems with automatic mod support. L
 # Table of Contents
 ### Project set up
 [Go to How to setup the editor for your first project](#how-to-setup-the-editor-for-your-first-project)  
-[Go to How to use the editor for your first project](#how-to-use-the-editor-for-your-first-project)
+[Go to How to use the editor for your first project](#how-to-use-the-editor-for-your-first-project)  
 [Go to How to use the grid](#how-to-use-the-grid)  
+[Go to How to output a galaxy to stellaris](#how-to-output-a-galaxy-to-stellaris)  
+[Go to How to output a galaxy to the output folder](#how-to-output-a-galaxy-to-the-output-folder)  
+
+
 
 
 ### FAQ
@@ -63,9 +67,17 @@ Note - Random Initializers are random each time the map is played in stellaris. 
 ![Placed Example](https://user-images.githubusercontent.com/57806930/231275038-47b3a111-74f1-40dc-bf47-948d24871bb8.PNG)  
 - Right click on a placed solar system initializer to delete it  
 - Right click a UI button solar system initializer to change the color of the ones place in the grid   
-![ColorChange](https://user-images.githubusercontent.com/57806930/231274878-58a2eab8-5989-4f3e-b263-6c46cf285de6.PNG)  
+![ColorChange](https://user-images.githubusercontent.com/57806930/231274878-58a2eab8-5989-4f3e-b263-6c46cf285de6.PNG)
 
-
+# How to output a galaxy to stellaris
+1. Press the "Generate" button at the top left of your screen
+2. Press the "Compile and Output to Steam Directory"
+3. Open Stellaris and you can now upload your mod to the Steam Workshop  
+The location of the "mod" is in your Stellaris document folder path, in its mod folder.  
+# How to output a galaxy to the output folder
+1. Press the "Generate" button at the top left of your screen
+2. Press the "Compile and Output to Unity Directory"  
+Note - The output file is located in your persitant datapath location (Example -C:\Users\Test\AppData\LocalLow\DefaultCompany\StellarisFinalGen)
 	
 
 # Frequently Asked Questions
