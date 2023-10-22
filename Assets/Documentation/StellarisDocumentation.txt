@@ -1,0 +1,6 @@
+class = "rl_starting_stars"   #This is the "type"
+	What it means by type is in the folder Stellaris\common\star_classes there are many diffrent star_classes.
+	One of the star classes is called "rl_starting_stars" or (random_list in 00_star_classes)
+	What this does is gives a list to randomly generate the star type such as sc_a,sc_b,sc_f,ect.
+	So when the game starts the star type will not always be the same.
+	

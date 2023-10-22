@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c56fb89303b9e4cadd43dc340decb8, type: 3}
+  m_Name: Temp
+  m_EditorClassIdentifier: 
+  save_placeType: 4
+  save_color: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+  save_emissiveColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+  save_emissiveNumber: 2
+  save_UI_father: 0
+  save_connectedHyperlanes: 
+  save_connectedNodes: 

@@ -1,0 +1,37 @@
+static_galaxy_scenario = {
+  name = "DefaultGalaxyName"
+  priority = -1
+  supports_shape = elliptical
+  num_empires = { min = 0 max = 30 }
+  num_empire_default = 5
+  fallen_empire_default = 1
+  fallen_empire_max = 5
+  marauder_empire_default = 1
+  marauder_empire_max = 5
+  advanced_empire_default = 0
+  colonizable_planet_odds = 0.75
+  primitive_odds = 0.75
+  crisis_strength = 0.5
+  extra_crisis_strength = { 10 25 50 100  }
+  num_wormhole_pairs = { min = 0 max = 10 }
+  num_wormhole_pairs_default = 1
+  num_gateways = { min = 0 max = 10 }
+  num_gateways_default = 1
+  random_hyperlanes = no
+  core_radius = 0
+
+
+   system = { id = "38591" name = "" position = { x = 16 y = 16 } initializer = random_empire_init_06  }
+   system = { id = "38590" name = "" position = { x = 16 y = 0 } initializer = random_empire_init_06  }
+   system = { id = "38589" name = "" position = { x = 16 y = -16 } initializer = random_empire_init_06  }
+   system = { id = "38574" name = "" position = { x = -20 y = 0 }  }
+   system = { id = "38573" name = "" position = { x = -8 y = 0 }  }
+   system = { id = "38572" name = "" position = { x = 4 y = 0 }  }
+   add_hyperlane = { from = "38589" to = "38574" }
+   add_hyperlane = { from = "38591" to = "38573" }
+   add_hyperlane = { from = "38590" to = "38572" }
+   add_hyperlane = { from = "38573" to = "38574" }
+   add_hyperlane = { from = "38572" to = "38573" }
+
+
+ }

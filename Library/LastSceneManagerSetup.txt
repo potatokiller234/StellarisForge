@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/CurrentBuild/Scene_ParseToFileDocumentExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

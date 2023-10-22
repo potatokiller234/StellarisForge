@@ -1,0 +1,4 @@
+repository "StellarisFinalGen@Personal_Beans@cloud"
+  path "/"
+    br "/main"
+    co "/main"
